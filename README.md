@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am Pranjal Srivastava, a Computer Science undergraduate at KIET Group of Institutions with a strong focus on backend development, machine learning, and scalable software systems. I enjoy building real-world applications and understanding how systems work at a deeper level.<br>My primary expertise lies in Java and Spring Boot, where I have developed backend applications such as a Student Management System and JPA-based data management systems. Through these projects, I have gained hands-on experience in REST API development, database integration, and designing structured backend architectures.<br>In addition to backend development, I am actively exploring Machine Learning, Deep Learning, and Generative AI, with a growing interest in building intelligent systems and real-time applications. I have also worked with computer vision tools like OpenCV and MediaPipe to create interactive applications. I am expanding my skill set across modern technologies, including Kotlin for application development and Flutter for cross-platform development, along with exposure to frontend frameworks for building complete full-stack solutions.<br>I am continuously learning, building impactful projects, and working toward becoming a well-rounded software engineer capable of developing backend systems, intelligent applications, and modern full-stack solutions. merge this text in the above given framework
+I am Pranjal Srivastava, a Computer Science undergraduate at KIET Group of Institutions with a strong focus on backend development, machine learning, and scalable software systems. I enjoy building real-world applications and understanding how systems work at a deeper level.<br>
+
+My primary expertise lies in Java and Spring Boot, where I have developed backend applications involving REST APIs, database integration, and structured backend architectures. I have also gained hands-on experience with FastAPI, MongoDB, SQLite, and LangGraph while building modern backend and AI-powered systems.<br>
+
+In addition to backend development, I am actively exploring Machine Learning, Deep Learning, and Generative AI, with a growing interest in building intelligent systems and real-time applications. Through projects such as Yojna Setu, I have worked with AI agents, eligibility reasoning, multilingual systems, and LLM-based application workflows.<br>
+
+I am also interested in understanding software closer to the system level. I am currently exploring Linux, Operating Systems, POSIX APIs, process management, and systems programming while building projects that strengthen my understanding of how software interacts with the underlying system.<br>
+
+As an open-source contributor through GirlScript Summer of Code (GSSoC) 2026, I have contributed to Heliox-OS, working on backend functionality, session usage tracking, cost estimation, SQLite optimization, and collaborative development through pull requests and code reviews.<br>
+
+I am continuously expanding my skills across C++, Python, Kotlin, Flutter, and modern development technologies while strengthening my foundations in Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks.<br>
+
+I am continuously learning, building, contributing, and experimenting with new technologies, with the goal of becoming a well-rounded software engineer capable of developing scalable backend systems, intelligent applications, and low-level software.
 
 
 ## 🌐 Socials:
