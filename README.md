@@ -1,17 +1,6 @@
 # 💫 About Me:
-I am Pranjal Srivastava, a Computer Science undergraduate at KIET Group of Institutions with a strong focus on backend development, machine learning, and scalable software systems. I enjoy building real-world applications and understanding how systems work at a deeper level.<br>
 
-My primary expertise lies in Java and Spring Boot, where I have developed backend applications involving REST APIs, database integration, and structured backend architectures. I have also gained hands-on experience with FastAPI, MongoDB, SQLite, and LangGraph while building modern backend and AI-powered systems.<br>
-
-In addition to backend development, I am actively exploring Machine Learning, Deep Learning, and Generative AI, with a growing interest in building intelligent systems and real-time applications. Through projects such as Yojna Setu, I have worked with AI agents, eligibility reasoning, multilingual systems, and LLM-based application workflows.<br>
-
-I am also interested in understanding software closer to the system level. I am currently exploring Linux, Operating Systems, POSIX APIs, process management, and systems programming while building projects that strengthen my understanding of how software interacts with the underlying system.<br>
-
-As an open-source contributor through GirlScript Summer of Code (GSSoC) 2026, I have contributed to Heliox-OS, working on backend functionality, session usage tracking, cost estimation, SQLite optimization, and collaborative development through pull requests and code reviews.<br>
-
-I am continuously expanding my skills across C++, Python, Kotlin, Flutter, and modern development technologies while strengthening my foundations in Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks.<br>
-
-I am continuously learning, building, contributing, and experimenting with new technologies, with the goal of becoming a well-rounded software engineer capable of developing scalable backend systems, intelligent applications, and low-level software.
+I am Pranjal Srivastava, a Computer Science undergraduate at KIET Group of Institutions focused on **Backend Development, AI/ML, and Systems Programming**. I primarily work with **Java and Spring Boot** to build REST APIs and backend systems, along with **Python, FastAPI, MongoDB, PostgreSQL, SQLite, and LangGraph** for modern and AI-powered applications. I am actively exploring **Machine Learning, Deep Learning, Generative AI, AI Agents, distributed systems, and computer vision**, while also diving deeper into **Linux, Operating Systems, POSIX APIs, process management, and low-level software**. As a **GSSoC 2026 open-source contributor**, I have contributed to **Heliox-OS** through backend development, session tracking, cost estimation, SQLite optimization, and collaborative development. I enjoy learning how systems work under the hood and continuously **building, experimenting, and contributing** to become a well-rounded software engineer capable of developing scalable, intelligent, and reliable software.
 
 
 ## 🌐 Socials:
